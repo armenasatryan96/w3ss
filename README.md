@@ -99,3 +99,184 @@ covers all the basics of HTML<br>
 </div>
 </body>
 </html>
+	
+	
+	
+	
+	css
+	.qwe1{
+	position: absolute;
+	top: 20px;
+    right:49px;
+    background-color: #229954;
+    border-radius: 32px;
+    width: 140px;
+    height: 49px;
+    color: white;
+    border: 0;
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+}
+.ttt{
+	position: absolute;
+	top:20px ;
+	left: 102px;
+	font-family: arial;
+
+}.ttt1{
+	position: absolute;
+	top:20px ;
+	left: 250px;
+	font-family: arial;
+
+}
+.ttt2{
+	position: absolute;
+	top:20px ;
+	left: 450px;
+	font-family: arial;
+
+}
+.sss{
+	position: relative;
+	top:2px;
+	
+}
+.jjj{
+	position: relative;
+	top: 2px;
+	
+}
+.ggg{
+	position:relative;
+	top: 2px;
+	
+
+}
+.ttt:hover{
+	transition-timing-function: 0.2s;
+	background-color: #229954;
+	user-select: none;
+}
+.ttt1:hover{
+	transition-timing-function: 0.2s;
+	background-color: #229954;
+	user-select: none;
+
+}.ttt2:hover{
+	transition-timing-function: 0.2s;
+	background-color: #229954;
+	user-select: none;
+}
+.ewq{
+	position: absolute;
+	top: 95px;
+	background-color: #212F3D ;
+	height: 200%;
+	width: 100%;
+}
+.wer{
+	position: absolute;
+	top:55px;
+	left:115px;
+	color: white;
+	font-family: arial;
+	
+}
+.rrr{
+	cursor: pointer;
+	user-select: none;
+}
+
+
+
+.zxc{
+	position: absolute;
+	top:15px;
+	right: 80px;
+	background-color: white;
+	border-radius: 16px;
+	color: black;
+	width:320px ;
+	height: 720px;
+
+}
+
+
+.coo{
+	position: absolute;
+	top: 20px;
+	right: 30px;
+	background-color:#F9E79F ;
+	border-radius: 22px;
+	width:140px ;
+	height:20px;
+	text-align: center;
+	cursor: auto;
+	
+}
+.qwe2{
+	position: absolute;
+	top: 660px;
+	right: 88px;
+    background-color: #229954;
+    border-radius: 32px;
+    width: 140px;
+    height: 49px;
+    color: white;
+    border: 0;
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+}/*
+.ww2{
+	position: absolute;
+	top: 240px;
+	left: 36px;
+}
+.ww3{
+	position: absolute;
+	top: 265px;
+	left: 36px;
+}
+.ww4{
+	position: absolute;
+	top: 290px;
+	left: 36px;
+}
+*/
+  
+
+ul li:hover{
+	background-color: #ABB2B9 ;
+}
+
+/*
+input[type='radio']:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+        top: -2px;
+        left: -1px;
+        position: relative;
+        background-color: green;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 2px solid green;
+    }*/
+
+
+.kkk{
+	position: absolute;
+	top: 210px;
+	right: 88px;
+	height: 420px;
+	width: 150px;
+	border: 0.5px solid green;
+}
+.iii{
+	background-color:#ABB2B9 ;
+}
+
